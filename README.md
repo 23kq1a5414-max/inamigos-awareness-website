@@ -16,7 +16,7 @@ Direct links to the official website (inamigosfoundation.org.in) and donation pa
 - HTML5
 - CSS3
 
-##Changelog
+## Changelog
 
 Fixed the "Join Us Today" button, which previously linked to nowhere (#); it now opens the real volunteer sign-up form
 Added a "Donate Now" button linking to the official donation page
